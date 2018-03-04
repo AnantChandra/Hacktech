@@ -1,0 +1,26 @@
+{
+	"RecognitionStatus":"Success",
+	"Offset":7200000,
+	"Duration":15500000,
+	"NBest":[
+		{
+			"Confidence":0.855458438,
+			"Lexical":"print hello world",
+			"ITN":"print hello world",
+			"MaskedITN":"print hello world",
+			"Display":"Print hello world."
+		},
+		{
+			"Confidence":0.807644367,
+			"Lexical":"brent hello world",
+			"ITN":"Brent hello world",
+			"MaskedITN":"Brent hello world",
+			"Display":"Brent hello world."
+		},
+		{
+			"Confidence":0.7714578,
+			"Lexical":"sprint hello world",
+			"ITN":"Sprint hello world",
+			"MaskedITN":"Sprint hello world",
+			"Display":"Sprint hello world."},
+			{"Confidence":0.7386799,"Lexical":"rent hello world","ITN":"rent hello world","MaskedITN":"rent hello world","Display":"Rent hello world."},{"Confidence":0.7386799,"Lexical":"brendt hello world","ITN":"brendt hello world","MaskedITN":"brendt hello world","Display":"Brendt hello world."}]}
